@@ -1,0 +1,6 @@
+Crosshair filesize in characters:
+   5-layers:
+	original: 5100
+	+type filter: 3020
+   1-layer:
+	+typeFilter: 488 or 510

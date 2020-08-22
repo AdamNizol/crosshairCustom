@@ -1,0 +1,6 @@
+other UI:
+-ammo counter
+	-radial sectioned with number count in center (like https://tombraiders.net/stella/walks/TR9walk/screenshots/game/ammo-select-1.jpg)
+	-line of bullets/images
+-books
+-lock picking
